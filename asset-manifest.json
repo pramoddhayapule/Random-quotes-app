@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Random-quotes-app/static/css/main.028ed8e8.css",
-    "main.js": "/Random-quotes-app/static/js/main.93105a7e.js",
+    "main.js": "/Random-quotes-app/static/js/main.fbf2ca70.js",
     "static/media/color.jpg": "/Random-quotes-app/static/media/color.a90b986caf9bb817a20a.jpg",
     "index.html": "/Random-quotes-app/index.html",
     "main.028ed8e8.css.map": "/Random-quotes-app/static/css/main.028ed8e8.css.map",
-    "main.93105a7e.js.map": "/Random-quotes-app/static/js/main.93105a7e.js.map"
+    "main.fbf2ca70.js.map": "/Random-quotes-app/static/js/main.fbf2ca70.js.map"
   },
   "entrypoints": [
     "static/css/main.028ed8e8.css",
-    "static/js/main.93105a7e.js"
+    "static/js/main.fbf2ca70.js"
   ]
 }
